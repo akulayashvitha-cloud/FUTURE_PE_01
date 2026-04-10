@@ -1,0 +1,36 @@
+You are a professional website copywriter.
+
+Generate high-converting website copy for a local business.
+
+Business Details:
+- Business Name: [Insert Name]
+- Business Type: [Salon / Clinic / Cafe / Agency]
+- Location: [City]
+- Target Audience: [Students / Families / Professionals]
+
+Requirements:
+
+1. Homepage Copy:
+- Headline (clear value proposition)
+- Subheadline (who it's for + benefit)
+- Short intro paragraph
+
+2. Services Section:
+- 3–5 services
+- Description for each
+- Why choose this service
+
+3. CTA Section:
+- Strong call-to-action
+- Contact / booking encouragement
+- Trust-building line
+
+Tone Guidelines:
+- Friendly for salons/cafes
+- Professional for clinics/agencies
+- Simple, clear, persuasive
+
+Output should be:
+- Website-ready
+- Non-generic
+- Conversion-focused
